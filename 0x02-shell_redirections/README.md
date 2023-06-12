@@ -1,1 +1,1 @@
-redirections readme file
+redirection readme file
