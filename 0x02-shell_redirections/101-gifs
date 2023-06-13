@@ -1,2 +1,2 @@
 #!/bin/bash
- find. −type d −empty −print | xargs rm −rf
+ find. −type d −empty 
